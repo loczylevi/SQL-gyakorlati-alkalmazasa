@@ -1,0 +1,1 @@
+# SQL-gyakorlati-alkalmazasa
